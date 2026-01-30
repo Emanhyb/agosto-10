@@ -5,7 +5,7 @@ by Sirius
 
 shlex | Designing + Programming
 iRay  | Programming
-
+emsnth| User
 ]]
 
 
@@ -23,16 +23,16 @@ local RayfieldLibrary = {
 	Theme = {
 		Default = {
 			TextFont = "Default", -- Default will use the various font faces used across Rayfield
-			TextColor = Color3.fromRGB(240, 240, 240),
+			TextColor = Color3.fromRGB(255, 255, 255),
 
-			Background = Color3.fromRGB(25, 25, 25),
-			Topbar = Color3.fromRGB(34, 34, 34),
-			Shadow = Color3.fromRGB(20, 20, 20),
+			Background = Color3.fromRGB(255,255,255),
+			Topbar = Color3.fromRGB(0, 56, 56),
+			Shadow = Color3.fromRGB(0, 56, 56),
 
-			NotificationBackground = Color3.fromRGB(20, 20, 20),
-			NotificationActionsBackground = Color3.fromRGB(230, 230, 230),
+			NotificationBackground = Color3.fromRGB(120, 120, 120),
+			NotificationActionsBackground = Color3.fromRGB(0, 184, 184),
 
-			TabBackground = Color3.fromRGB(80, 80, 80),
+			TabBackground = Color3.fromRGB(),
 			TabStroke = Color3.fromRGB(85, 85, 85),
 			TabBackgroundSelected = Color3.fromRGB(210, 210, 210),
 			TabTextColor = Color3.fromRGB(240, 240, 240),
